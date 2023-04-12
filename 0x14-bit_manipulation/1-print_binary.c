@@ -11,7 +11,7 @@ void print_binary(unsigned long int n)
 	unsigned long int tracker;
 	/* unsigned integer range */
 
-	for (int j = 63; j >= 0; j--)
+	for (j = 63; j >= 0; j--)
 
 	{
 		tracker = n >> j;
