@@ -7,6 +7,7 @@
 void print_binary(unsigned long int n)
 {
 	int counter = 0;
+	int j = 0;
 	unsigned long int tracker;
 	/* unsigned integer range */
 
